@@ -11,6 +11,7 @@ Needed Bricks
 All Parts exept the apple lightning cable are available on Legos [Pick a Brick website](http://shop.lego.com/en-US/Pick-A-Brick-ByTheme).
 
 ![Angular Brick 1×1](res/ANGULAR_BRICK_1X1-White.png)×2
+![Brick 1×1 with knoop](res/BRICK_1X1_W._1_KNOB-White.png)×16
 ![Brick corner](res/BRICK_CORNER_1X2X2-White.png)×4
 ![Brick with arch](res/BRICK_W._ARCH_1X1X1_13-White.png)×28
 ![Brick 1×1](res/BRICK_1X1-White.png)×1

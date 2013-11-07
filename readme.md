@@ -30,8 +30,8 @@ All Parts exept the apple lightning cable are available on Legos [Pick a Brick w
 ![Roof tile](res/ROOF_TILE_2X245_INV-White.png)×4
 ![Apple Lightning to USB Cable](res/lightning.svg "Image by Domaina https://commons.wikimedia.org/wiki/User:Domaina. This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.")×1
 
-Step-by-Step
-------------
+Building Instructions
+---------------------
 
 ### Back rest ###
 

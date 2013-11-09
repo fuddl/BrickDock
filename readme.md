@@ -60,6 +60,11 @@ Building Instructions
 3. ![Step-5c](res/Step-5c.png)
 4. ![Step-5d](res/Step-5d.png)
 
+### Back ###
+
+1. ![Step-7](res/Step-7.png)
+2. ![Step-7](res/Step-7a.png)
+
 ### Connect everything ###
 
-![Step-9](res/Step-9.png)
+![Step-8](res/Step-8.png)
